@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+        "name": "Ram",
+        "age": 20,
+        "course": "CSE",
+        "email": "ram@gmail.com",
+        "marks": 80.0
+    },
+    {
+        "id": "2",
+        "name": "Sam",
+        "age": 20,
+        "course": "ECE",
+        "email": "sam@gmail.com",
+        "marks": 86.0
+    }
+]
